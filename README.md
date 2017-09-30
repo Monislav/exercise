@@ -7,8 +7,6 @@ This is new project.
 
 New java project!
 
-new branch!
+The new branch!
 
-this is master
-
-git bash!
+Master branch!
